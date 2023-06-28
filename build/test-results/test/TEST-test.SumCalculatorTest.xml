@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-28T16:03:15" hostname="MacBook-Pro-Orest.local" time="0.012">
+  <properties/>
+  <testcase name="testIsSumIsExceptionsWhenEqualse0()" classname="test.SumCalculatorTest" time="0.01"/>
+  <testcase name="testIsSumIs1()" classname="test.SumCalculatorTest" time="0.001"/>
+  <testcase name="testIsSumIs6()" classname="test.SumCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
